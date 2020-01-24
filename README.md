@@ -4,5 +4,5 @@ Dallas Zinn
 <<<<<<< HEAD
 "This is a change on newbranch"
 =======
-"testbranch change"
+
 >>>>>>> master
