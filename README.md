@@ -1,2 +1,3 @@
-# assign2git
+git status# assign2git
 Dallas Zinn
+"first comment"
